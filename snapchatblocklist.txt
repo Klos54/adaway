@@ -1,0 +1,92 @@
+# This blocklist blocks Snapchat Traffic
+#
+# Date: 15 April 2020 13:11:00 (UTC)
+# Fetch the latest version of this file: https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/Snapchat/snapchatblocklist.txt
+# Project home page: https://github.com/d43m0nhLInt3r/socialblocklists
+# ===============================================================
+
+
+# Snapchat Chat
+127.0.0.1 chat-gateway-prod.chat.snapchat.com
+
+# Snapchat Website
+127.0.0.1 www.snapchat.com
+127.0.0.1 snapchat.com
+127.0.0.1 snap.com
+
+# Snapchat App
+127.0.0.1 feelinsonice-mvm.l.google.com
+127.0.0.1 feelinsonice-hrd.appspot.com
+127.0.0.1 app.snapchat.com
+127.0.0.1 mvm.snapchat.com
+
+# Snapchat Login
+127.0.0.1 pro-accounts.snapchat.com
+127.0.0.1 auth.snapchat.com
+
+# Snapkit
+127.0.0.1 api.snapkit.com
+
+# Other
+127.0.0.1 sc-cdn.net
+127.0.0.1 gcs.sc-cdn.net
+127.0.0.1 jaguar-prod.snapchat.com
+127.0.0.1 st.sc-jpl.com
+127.0.0.1 gtq.sct.sc-prod.net
+127.0.0.1 gtq6.sct.sc-prod.net
+127.0.0.1 am-prod.sc-jpl.com
+127.0.0.1 s.sc-cdn.net
+127.0.0.1 cf-st.sc-cdn.net
+127.0.0.1 bolt-gcdn.sc-cdn.net
+127.0.0.1 gcp.api.snapchat.com
+127.0.0.1 us-east1-aws.api.snapchat.com
+127.0.0.1 us-east4-gcp.api.snapchat.com
+127.0.0.1 europe-west1-gcp.api.snapchat.com
+127.0.0.1 images.bitmoji.com
+127.0.0.1 us-east1-aws.api.snapchat.com
+127.0.0.1 api.snapchat.com
+127.0.0.1 us-east1-aws.api.sc-gw.com
+127.0.0.1 snap-storage-cdn.l.google.com
+127.0.0.1 snap.events.mapbox.com
+127.0.0.1 ms.sc-jpl.com
+127.0.0.1 snap.api.mapbox.com
+127.0.0.1 st-lb.sc-jpl.com
+127.0.0.1 loc.sc-jpl.com
+127.0.0.1 cognac-prod.appspot.com
+127.0.0.1 scm.sc-jpl.com
+127.0.0.1 us-central1-gcp.api.sc-gw.com
+127.0.0.1 us-central1-gcp.api.snapchat.com
+127.0.0.1 map-status-p-service-ext-alb-206522301.us-west-2.elb.amazonaws.com
+127.0.0.1 snapchat.appspot.com
+127.0.0.1 sc-analytics.appspot.com
+127.0.0.1 feelinsonice.appspot.com
+127.0.0.1 feelinsonice-hrd.appspot.com
+127.0.0.1 feelinsonice.com
+127.0.0.1 feelinsonice.appspot.com
+127.0.0.1 appspot.l.google.com
+127.0.0.1 data.flurry.com
+127.0.0.1 ase.adserver.snapads.com
+127.0.0.1 euw.adserver.snapads.com
+127.0.0.1 use.adserver.snapads.com
+127.0.0.1 usc.adserver.snapads.com
+127.0.0.1 app-analytics.snapchat.com
+127.0.0.1 app-analytics-v2.snapchat.com
+127.0.0.1 app.snapchat.com
+127.0.0.1 aws.api.snapchat.com
+127.0.0.1 cf-st.sc-cdn.net
+127.0.0.1 chat-gateway-prod.chat.snapchat.com
+127.0.0.1 gtq.sct.sc-prod.ne
+127.0.0.1 tib.snssdk.com
+127.0.0.1 loca.sc-jpl.com
+127.0.0.1 mvm.snapchat.com
+127.0.0.1 us-central1-gcp.api.snapchat.com
+127.0.0.1 webattachments.snapchat.com
+127.0.0.1 d3cwhzzyyewihk.cloudfront.net
+127.0.0.1 aws.duplex.snapchat.com
+127.0.0.1 internal-api.snapkit.com
+127.0.0.1 eu-west1-aws.duplex.sc-gw.com
+127.0.0.1 snapchat-proxy.appspot.com
+127.0.0.1 tr.snapchat.com
+
+# Location?
+127.0.0.1 loca.sc-jpl.com
