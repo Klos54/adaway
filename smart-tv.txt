@@ -1,0 +1,87 @@
+# ------------------------------------[UPDATE]--------------------------------------
+# Title: The Block List Project - Smart TV List
+# Expires: 1 day
+# Homepage: https://blocklist.site
+# Help: https://github.com/blocklistproject/lists/wiki/
+# License: https://unlicense.org
+# Total number of network filters: 72
+# ------------------------------------[SUPPORT]-------------------------------------
+# You can support by:
+# - reporting false positives
+# - making a donation: https://paypal.me/blocklistproject
+# -------------------------------------[INFO]---------------------------------------
+#
+# Smart TV list
+# ------------------------------------[FILTERS]-------------------------------------
+127.0.0.1 acr0.samsungcloudsolution.com
+127.0.0.1 ad.lgappstv.com
+127.0.0.1 ads.samsungads.com
+127.0.0.1 aic-ngfts.lge.com
+127.0.0.1 amarillo.sb.roku.com
+127.0.0.1 az43064.vo.msecnd.net
+127.0.0.1 bif.sr.roku.com
+127.0.0.1 cdn.samsungcloudsolution.com
+127.0.0.1 cloudservices.roku.com
+127.0.0.1 config.samsungads.com
+127.0.0.1 control-zoo-dtsstage.tvinteractive.tv
+127.0.0.1 cooper.logs.roku.com
+127.0.0.1 coordinator-production-28516768.us-east-1.elb.amazonaws.com
+127.0.0.1 d179kwmlpc4o47.cloudfront.ne
+127.0.0.1 d1oxlq5h9kq8q5.cloudfront.net
+127.0.0.1 d2tnx644ijgq6i.cloudfront.net
+127.0.0.1 d3mjsomixevyw7.cloudfront.net
+127.0.0.1 edgesuite.net
+127.0.0.1 eu-auth2.samsungosp.com
+127.0.0.1 events.samsungads.com
+127.0.0.1 game.internetat.tv
+127.0.0.1 gpm.samsungqbe.com
+127.0.0.1 img-resize-cdn-prod.samsungnyc.com
+127.0.0.1 infolink.pavv.co.kr
+127.0.0.1 lcprd1.samsungcloudsolution.net
+127.0.0.1 lgad.cjpowercast.com
+127.0.0.1 log-1.samsungacr.com
+127.0.0.1 log-2.samsungacr.com
+127.0.0.1 log-config.samsungacr.com
+127.0.0.1 ngfts.lge.com
+127.0.0.1 notice.samsungcloudsolution.com
+127.0.0.1 noticecdn.samsungcloudsolution.com
+127.0.0.1 noticefile.samsungcloudsolution.com
+127.0.0.1 ns11.whois.co.kr
+127.0.0.1 ocfconnect-shard-eu02-euwest1.samsungiotcloud.com
+127.0.0.1 oempprd.samsungcloudsolution.com
+127.0.0.1 osb-v2.samsungqbe.com
+127.0.0.1 p.ads.roku.com
+127.0.0.1 premium-videos.telly.com
+127.0.0.1 samsungacr.com
+127.0.0.1 samsungads.com
+127.0.0.1 samsungcloudsolution.com
+127.0.0.1 samsungcloudsolution.net
+127.0.0.1 samsungotn.net
+127.0.0.1 samsungrm.net
+127.0.0.1 scribe.logs.roku.com
+127.0.0.1 scs.samsungqbe.com
+127.0.0.1 smartclip.com
+127.0.0.1 smartclip.net
+127.0.0.1 smartshare.lgtvsdp.com
+127.0.0.1 static.doubleclick.net
+127.0.0.1 syncplusconfig.s3.amazonaws.com
+127.0.0.1 targeted-config-test.samsungacr.com
+127.0.0.1 time.samsungcloudsolution.com
+127.0.0.1 traces.sr.roku.com
+127.0.0.1 track.sr.roku.com
+127.0.0.1 tvinteractive.tv
+127.0.0.1 tvx.adgrx.com
+127.0.0.1 uimetadata.samsungiotcloud.com
+127.0.0.1 us.ad.lgsmartad.com
+127.0.0.1 us.ibs.lgappstv.com
+127.0.0.1 us.info.lgsmartad.com
+127.0.0.1 us.lgtvsdp.com
+127.0.0.1 us.rdx2.lgtvsdp.com
+127.0.0.1 vdterms.samsungcloudsolution.com
+127.0.0.1 yumenetworks.com
+127.0.0.1 osb-apps-v2.samsungqbe.com
+127.0.0.1 osb.samsungqbe.com
+127.0.0.1 gld.push.samsungosp.com
+127.0.0.1 sas.samsungcloudsolution.com
+127.0.0.1 events.cid.samba.tv
+127.0.0.1 platform.cid.samba.tv

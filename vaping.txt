@@ -1,0 +1,124 @@
+# ------------------------------------[UPDATE]--------------------------------------
+# Title: The Block List Project - Vaping List
+# Expires: 1 day
+# Homepage: https://blocklist.site
+# Help: https://github.com/blocklistproject/lists/wiki/
+# License: https://unlicense.org
+# Total number of network filters: 108
+# ------------------------------------[SUPPORT]-------------------------------------
+# You can support by:
+#  - reporting false positives
+#  - making a donation: https://paypal.me/blocklistproject
+# -------------------------------------[INFO]---------------------------------------
+#
+# Vaping list
+# ------------------------------------[FILTERS]-------------------------------------
+# https://github.com/blocklistproject/Lists/issues/383
+127.0.0.1 vaping.com
+127.0.0.1 vaping.org
+127.0.0.1 vapingdaily.com
+127.0.0.1 www.vaporfi.com
+127.0.0.1 vaporfi.com
+127.0.0.1 vaping.rocks
+127.0.0.1 breazy.com
+127.0.0.1 www.rockbottomvapes.com
+127.0.0.1 rockbottomvapes.com
+127.0.0.1 www.eightvape.com
+127.0.0.1 eightvape.com
+127.0.0.1 bovaping.com
+127.0.0.1 thcvapesoil.com
+127.0.0.1 www.thcvapesoil.com
+127.0.0.1 mail.thcvapesoil.com
+127.0.0.1 www.directvapor.com
+127.0.0.1 directvapor.com
+127.0.0.1 vapingcheap.com
+127.0.0.1 www.vapingcheap.com
+127.0.0.1 vaping360.com
+127.0.0.1 advertise.vaping360.com
+127.0.0.1 cdn.vaping360.com
+127.0.0.1 wwv.vaping360.com
+127.0.0.1 assets1.vaping360.com
+127.0.0.1 www.vaping360.com
+127.0.0.1 go.vaping360.com
+127.0.0.1 media.vaping360.com
+127.0.0.1 vapecraftinc.com
+127.0.0.1 www.vapecraftinc.com
+127.0.0.1 tracking.vapecraftinc.com
+127.0.0.1 deals.vapecraftinc.com
+127.0.0.1 www.vapesuperstore.co.uk
+127.0.0.1 vapesuperstore.co.uk
+127.0.0.1 ww2.vapesuperstore.co.uk
+127.0.0.1 local.vapesuperstore.co.uk
+127.0.0.1 comune.vapesuperstore.co.uk
+127.0.0.1 www.vaping.watch
+127.0.0.1 vaping.watch
+127.0.0.1 www.vaporbeast.com
+127.0.0.1 vaporbeast.com
+127.0.0.1 elementvape.com
+127.0.0.1 www.elementvape.com
+127.0.0.1 blazedvapes.com
+127.0.0.1 www.blazedvapes.com
+127.0.0.1 myvaporstore.com
+127.0.0.1 www.myvaporstore.com
+127.0.0.1 thevapemall.com
+127.0.0.1 www.thevapemall.com
+127.0.0.1 zenithvapecbd.com
+127.0.0.1 www.zenithvapecbd.com
+127.0.0.1 buyvapor.com
+127.0.0.1 www.buyvapor.com
+127.0.0.1 nyvapeshop.com
+127.0.0.1 www.nyvapeshop.com
+127.0.0.1 buypodsnow.com
+127.0.0.1 www.buypodsnow.com
+127.0.0.1 vapordna.com
+127.0.0.1 www.vapordna.com
+127.0.0.1 instagram.vapordna.com
+127.0.0.1 blog.vapordna.com
+127.0.0.1 www.discountvapepen.com
+127.0.0.1 discountvapepen.com
+127.0.0.1 ns1.discountvapepen.com
+127.0.0.1 ns2.discountvapepen.com
+127.0.0.1 buysellvape.com
+127.0.0.1 www.buysellvape.com
+127.0.0.1 vapeadmin.buysellvape.com
+127.0.0.1 buysellaccess.buysellvape.com
+127.0.0.1 api.buysellvape.com
+127.0.0.1 autodiscover.buysellvape.com
+127.0.0.1 mail.buysellvape.com
+127.0.0.1 www.misthub.com
+127.0.0.1 misthub.com
+127.0.0.1 help.misthub.com
+127.0.0.1 test.misthub.com
+127.0.0.1 vape.misthub.com
+127.0.0.1 enterpriseenrollment.misthub.com
+127.0.0.1 msoid.misthub.com
+127.0.0.1 cdn.misthub.com
+127.0.0.1 unsub.misthub.com
+127.0.0.1 westcoastvapesupply.com
+127.0.0.1 amp.westcoastvapesupply.com
+127.0.0.1 files.westcoastvapesupply.com
+127.0.0.1 wholesale.westcoastvapesupply.com
+127.0.0.1 email.westcoastvapesupply.com
+127.0.0.1 blog.westcoastvapesupply.com
+127.0.0.1 www.westcoastvapesupply.com
+127.0.0.1 eliquid.westcoastvapesupply.com
+127.0.0.1 lcdn.westcoastvapesupply.com
+127.0.0.1 slickvapes.com
+127.0.0.1 www.slickvapes.com
+127.0.0.1 cdn.slickvapes.com
+127.0.0.1 blog.slickvapes.com
+127.0.0.1 store.nyvapeshop.com
+127.0.0.1 prelive.nyvapeshop.com
+127.0.0.1 pop.nyvapeshop.com
+127.0.0.1 spam.nyvapeshop.com
+127.0.0.1 cdn.nyvapeshop.com
+127.0.0.1 kibana.nyvapeshop.com
+127.0.0.1 dev.nyvapeshop.com
+127.0.0.1 info.nyvapeshop.com
+127.0.0.1 giantvapes.com
+127.0.0.1 blog.giantvapes.com
+127.0.0.1 www.giantvapes.com
+127.0.0.1 images.giantvapes.com
+127.0.0.1 ftp.giantvapes.com
+127.0.0.1 apps.giantvapes.com
+127.0.0.1 reviews.giantvapes.com
